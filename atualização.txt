@@ -1,6 +1,5 @@
-
 {
-  "Version": "10.0.169",
+  "Version": "1",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️",
   "UrlUpdate": "https://bitbin.it/bT2Y63x2/raw/",
   "Sms": "",
@@ -14,7 +13,7 @@
       "Name": "VIP 🔥🔥",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "aws.luladeixou.online",
+      "ServerIP": "2bolsonaro.e.luladeixou.online",
       "CheckUser": "http://140.238.182.6:2022/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
