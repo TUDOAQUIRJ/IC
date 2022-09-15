@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
      {
-      "Name": "VIP 🔥🔥",
+      "Name": "Só VIP 🔥",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "2bolsonaro.e.luladeixou.online",
@@ -23,7 +23,7 @@
     ],
       "Networks": [
       {
-      "Name": "📱 TIM & VIVO 📡 💙💜",
+      "Name": "TIM & VIVO 📡 💜",
       "FLAG": "vivo",
       "Payload": "GET wss://bam.nr-data.net// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep -Vivo[crlf][crlf]",
       "SNI": "bam.nr-data.net",
@@ -33,7 +33,7 @@
       "Info": "Tlsws"
    },
 {
-"Name": "🟣VIVO E TIM🔵",
+"Name": "🟣TIM🔵",
       "FLAG": "vivo",
       "Payload": "GET ws://duffandphelps.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "duffandphelps.com",
@@ -43,7 +43,7 @@
       "Info": "Tlsws"
 },
    {
-             "Name": "📱TIM CANTOU📱 ",
+             "Name": "📱TIM RÁPIDA📱 ",
                "FLAG": "tim",
            "Payload": "GET wss://bam.nr-data.net// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep -Vivo[crlf][crlf]",
              "SNI": "bam.nr-data.net",
