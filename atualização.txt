@@ -83,7 +83,7 @@
       "Info": "Proxy"
     }, 
     {
-      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 05 🔴\n ANTIGA VIVO 20 [SSL]",
+      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 05 🔴",
       "FLAG": "vivo",
       "Payload": "GET wss://compre.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]",
       "SNI": "compre.vivo.com.br",
