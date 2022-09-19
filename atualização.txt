@@ -42,7 +42,7 @@
      "ProxyPort": "443",
      "Info": "Tlsws"
    },
-   {
+  { 
      "Name":"📱TIM 4G📱",
      "Payload":"GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "FLAG": "tim",
@@ -50,7 +50,7 @@
      "Tlsip":"bam.nr-data.net",
      "ProxyIP":"",
      "ProxyPort":"433",
-     "Info": "Proxy"           
+     "Info": "Proxy"
    },
    {
       "Name": "VIVO [❤️]",
