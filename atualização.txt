@@ -23,6 +23,19 @@
     ],
       "Networks": [
       {
+      "Name": "TIM NOVA 21 SETEMBRO",
+      "FLAG": "vivo",
+      "Payload": "GET wss://auth-uat-us.surveymonkey.com/ HTTP/1.1 
+Host: 2bolsonaro.e.luladeixou.online:443 
+Upgrade: Websocket 
+Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "auth-uat-us.surveymonkey.com",
+      "TlsIP": "",
+      "ProxyIP": "auth-uat-us.surveymonkey.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+      {
       "Name": "TIM & VIVO 📡 💜",
       "FLAG": "vivo",
       "Payload": "GET wss://bam.nr-data.net// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep -Vivo[crlf][crlf]",
