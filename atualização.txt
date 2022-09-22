@@ -1,5 +1,5 @@
 {
-  "Version": "9",
+  "Version": "10",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -35,18 +35,44 @@ Connection: Keep-Alive[crlf][crlf]",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
-      {
-      "Name": "TIM NOVA 21 SETEMBRO",
-      "FLAG": "vivo",
-      "Payload": "GET wss://auth-uat-us.surveymonkey.com/ HTTP/1.1 
-Host: 2bolsonaro.e.luladeixou.online:443 
-Upgrade: Websocket 
-Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "auth-uat-us.surveymonkey.com",
-      "TlsIP": "",
-      "ProxyIP": "auth-uat-us.surveymonkey.com",
+    {
+
+      "Name": "TIM TESTE 1",
+
+      "FLAG": "tim",
+
+      "Payload": "GET wss://assets-sf.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "assets-sf.c6bank.com.br",
+
+      "TlsIP": "104.16.237.16",
+
+      "ProxyIP": "",
+
       "ProxyPort": "443",
+
       "Info": "Tlsws"
+
+   },
+
+     {
+
+      "Name": "TIM TESTE 2",
+
+      "FLAG": "tim",
+
+      "Payload": "GET wss://auth.of.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "auth.of.c6bank.com.br",
+
+      "TlsIP": "172.64.144.237",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
    },
       {
       "Name": "TIM & VIVO 📡 💜",
