@@ -1,5 +1,5 @@
 {
-  "Version": "12",
+  "Version": "13",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️ Tim e claro em manutenção. a Tim esta com manutenção na rede dela provável voltar a qualquer momento.",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -22,6 +22,16 @@
      },
     ],
       "Networks": [
+         {
+      "Name": "TIM CONECT ", 
+      "FLAG": "tim", 
+      "Payload": "GET wss://auth.of.c6bank.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+      "SNI": "auth.of.c6bank.com.br", 
+      "TlsIP": "auth.of.c6bank.com.br", 
+      "ProxyIP": "", 
+      "ProxyPort": "", 
+      "Info": "Tlsws" 
+     },
       {         
       "Name": "╰◕╰🥶TIM HELP🥶◕╰◕", 
       "FLAG": "tim", 
