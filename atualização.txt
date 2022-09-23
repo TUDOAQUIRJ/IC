@@ -1,5 +1,5 @@
 {
-  "Version": "19",
+  "Version": "20",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️ Tim e claro em manutenção. a Tim esta com manutenção na rede dela provável voltar a qualquer momento.",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -22,6 +22,16 @@
      },
     ],
       "Networks": [
+      {
+    "Name": "🟣CLARO DE VOLTA",
+      "FLAG": "claro",
+      "Payload": "GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "140.238.182.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"  
+    },
           {
       "Name": "💙TIM [SSL 2]",
       "FLAG": "tim",
