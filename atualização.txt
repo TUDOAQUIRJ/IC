@@ -22,7 +22,7 @@
      },
     ],
       "Networks": [
-      {
+{
     "Name": "🟣CLARO DE VOLTA",
       "FLAG": "claro",
       "Payload": "GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
@@ -32,16 +32,6 @@
       "ProxyPort": "80",
       "Info": "Proxy"  
     },
-     { 
-      "Name": "🟣teste Tim AMPLI",
-      "FLAG": "tim",
-      "Payload": "wss://duvidas.ampli.com.br/hc/pt-br/ HTTP/1.1[crlf]Host: 2bolsonaro.e.luladeixou.online [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "duvidas.ampli.com.br",
-      "TlsIP": "",
-      "ProxyIP": "104.16.53.111",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
           {
       "Name": "💙TIM [SSL 2]",
       "FLAG": "tim",
