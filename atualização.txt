@@ -28,7 +28,7 @@
       "Payload": "GET wss://cursolivre.ampli.com.br HTTP/1.1[crlf]Host: 2.bolsonaro.e.luladeixou.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cursolivre.ampli.com.br",
       "TlsIP": "cursolivre.ampli.com.br",
-      "ProxyIP": "cursolivre.ampli.com.br",
+      "ProxyIP": "cur",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
