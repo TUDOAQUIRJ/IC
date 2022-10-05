@@ -1,5 +1,5 @@
 {
-  "Version": "31",
+  "Version": "32",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️ .",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -32,6 +32,25 @@
       "ProxyPort": "443", 
       "Info": "Tlsws"
    },
+   {
+
+      "Name": "Tim, claro e OI",
+
+      "FLAG": "claro",
+
+      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: l.abalador.tk[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "atendimento.descomplica.com.br",
+
+      "TlsIP": "atendimento.descomplica.com.br",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "",
+
+      "Info": "Tlsws"
+
+    },
    {
 
       "Name": "TIM IMAGE", 
