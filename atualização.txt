@@ -1,5 +1,5 @@
 {
-  "Version": "32",
+  "Version": "33",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️ .",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -108,6 +108,67 @@
               "Info": "Tlsws"
 
             },
+            {
+            "Name": "TIM 1 Data de Validade",
+            "FLAG": "tim",
+            "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+},
+{ 
+           "Name": "TIM 2",
+            "FLAG": "tim",
+            "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+            "SNI": "duvidas.ampli.com.br",
+            "TlsIP": "duvidas.ampli.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+    {
+   
+            "Name": "TIM 3",
+            "FLAG": "tim",
+            "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+            "SNI": "duvidas.ampli.com.br",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+    },
+{
+  "Name": "TIM 4",
+            "FLAG": "tim",
+            "Payload": "GET wss://support.deezer.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "support.deezer.com",
+            "TlsIP": "support.deezer.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+    },
+{
+  "Name": "TIM 5 Data de Validade",
+            "FLAG": "tim",
+            "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+    },
+{
+"Name": "TIM 6 Data de Validade",
+     "FLAG": "tim", 
+     "Payload": "GET wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]", 
+     "SNI": "workplaceservices.surveymonkey.com", 
+     "TlsIP": "workplaceservices.surveymonkey.com", 
+     "ProxyIP": "", 
+     "ProxyPort": "443", 
+     "Info": "Tlsws"  
+},
 {
     "Name": "🟣CLARO DE VOLTA",
       "FLAG": "claro",
