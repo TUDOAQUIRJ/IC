@@ -32,45 +32,6 @@
       "ProxyPort": "443", 
       "Info": "Tlsws"
    },
-   {
-
-      "Name": "💛oi nova]",
-
-      "FLAG": "oi",
-
-      "Payload": "GET ws://sso.hotjar.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: XANDYNET[crlf][crlf]",
-
-      "SNI": "sso.hotjar.com",
-
-      "TlsIP": "sso.hotjar.com",
-
-      "ProxyIP": "",
-
-      "ProxyPort": "443",
-
-      "Info": "Tlsws"
-
-    },
-
-{
-
-      "Name": "TIM SALDO EXPIRADO",
-
-      "FLAG": "tim", 
-
-      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]", 
-
-      "SNI": "", 
-
-      "TlsIP": "", 
-
-      "ProxyIP": "[app_host]", 
-
-      "ProxyPort": "80", 
-
-      "Info": "Proxy"
-
-    },
             {
             "Name": "TIM 1 Data de Validade👍",  
             "FLAG": "tim", 
