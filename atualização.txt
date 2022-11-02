@@ -1,5 +1,5 @@
 {
-  "Version": "43",
+  "Version": "44",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️ .",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
      {
-      "Name": "🛸22BRASIL🚀 ",
+      "Name": "🛸LULA LADRÃO🚀 ",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "2bolsonaro.e.luladeixou.online",
@@ -32,6 +32,16 @@
       "ProxyPort": "443", 
       "Info": "Tlsws"
    },
+   {
+            "Name": "TIM  NOVA👑",
+            "FLAG": "tim",
+            "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, TOPSPEED[crlf][crlf]",
+            "SNI": "api.onesignal.com",
+            "TlsIP": "api.onesignal.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+       },
 {
       "Name": "💛oi nova teste", 
       "FLAG": "oi", 
