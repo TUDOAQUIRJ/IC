@@ -43,24 +43,24 @@
             "Info": "Tlsws"
        },
        {
-      "Nome": "🇧🇷️VIvo countPRO🌐[01]",
-      "BANDEIRA": "vivo",
+      "Name": "🇧🇷️VIvo countPRO🌐[01]",
+      "FLAG": "vivo",
       "Payload": "GET wss://support.counterpath.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive [crlf][crlf]",
       "SNI": "support.counterpath.com",
       "TlsIP": "104.16.51.111",
-      "IP de Proxy": "",
+      "ProxyIP": "",
       "ProxyPort": "443",
-      "Informações": "Tlsws"
+      "Info": "Tlsws"
     },
     {
-      "Nome": "😎 VIVO FF ON [SSL Completo]",
-      "BANDEIRA": "vivo",
+      "Name": "😎 VIVO FF ON [SSL Completo]",
+      "FLAG": "vivo",
       "Payload": "GET wss://ffsupportbd.garena.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive [crlf][crlf]",
       "SNI": "ffsupportbd.garena.com",
       "TlsIP": "ffsupportbd.garena.com",
       "ProxyIP": "ffsupportbd.garena.com",
       "ProxyPort": "443",
-      "Informações": "Tlsws"
+      "Info": "Tlsws"
     },
 {
       "Name": "💛oi nova teste", 
