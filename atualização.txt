@@ -52,6 +52,16 @@
       "ProxyPort": "443",
       "Informações": "Tlsws"
     },
+    {
+      "Nome": "😎 VIVO FF ON [SSL Completo]",
+      "BANDEIRA": "vivo",
+      "Payload": "GET wss://ffsupportbd.garena.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive [crlf][crlf]",
+      "SNI": "ffsupportbd.garena.com",
+      "TlsIP": "ffsupportbd.garena.com",
+      "ProxyIP": "ffsupportbd.garena.com",
+      "ProxyPort": "443",
+      "Informações": "Tlsws"
+    },
 {
       "Name": "💛oi nova teste", 
       "FLAG": "oi", 
