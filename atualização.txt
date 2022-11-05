@@ -23,34 +23,6 @@
     ],
       "Networks": [
       {
-      "Name": "🧿TIM & VIVO🟪 & 🟡Oi", 
-      
-       "FLAG": "tim", 
-       
-       "Payload": "GET wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]", 
-       
-       "SNI": "workplaceservices.surveymonkey.com", 
-       
-       "TlsIP": "104.16.51.111", 
-       
-       "ProxyIP": "", 
-       
-       "ProxyPort": "443", 
-       
-       "Info": "Tlsws"
-       
-       },
-      {
-      "Name": "TIM E VIVO 👍", 
-      "FLAG": "tim", 
-      "Payload": "GET wss://support.deezer.com  HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]", 
-      "SNI": "support.deezer.com", 
-      "TlsIP": "support.deezer.com", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
-      "Info": "Tlsws"
-   },
-   {
             "Name": "TIM  NOVA👑",
             "FLAG": "tim",
             "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, TOPSPEED[crlf][crlf]",
