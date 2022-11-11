@@ -1,5 +1,5 @@
 {
-  "Version": "52",
+  "Version": "53",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️ .",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -32,7 +32,25 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
     },
+{
 
+      "Name": "🇧🇷️VIVO POWER ON FROINT 💜[02]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET / HTTP/1.1[crlf]Host: seudominiocloudfront[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "planosvivointernet.com.br",
+
+      "ProxyPort": "80",
+
+      "Info": "Proxy"
+
+    },
 {
 "Name":"INJECT PROXY 2 (Regioes)",
          "FLAG":"ic_vivo",
