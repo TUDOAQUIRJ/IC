@@ -1,5 +1,5 @@
 {
-  "Version": "56",
+  "Version": "57",
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ✍️ .",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -32,6 +32,25 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
     },
+    {
+
+            "Name": "TIM NOVA",
+
+            "FLAG": "tim",
+
+            "Payload": "GET wss://api.sandbox.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+            "SNI": "api.sandbox.c6bank.com.br",
+
+            "TlsIP": "api.sandbox.c6bank.com.br",
+
+            "ProxyIP": "",
+
+            "ProxyPort": "443",
+
+            "Info": "Tlsws"
+
+        },
     
 {
 
