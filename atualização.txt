@@ -1,5 +1,5 @@
 {
-  "Version": "58",
+  "Version": "59",
   "ReleaseNotes": " AVISO 🇧🇷 SE EM ALGUM MOMENTO SEU SALDO EXPIRAR E NAO CONECTAR NOVAMENTE, SERÁ NECESSÁRIO REATIVAR SUA REDE REALIZANDO UMA RECARGA E APÓS UTILIZAR O APLICATIVO NOVAMENTE SEM LIMITES.👇.",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -22,18 +22,8 @@
      },
     ],
       "Networks": [
-      {
-            "Name": "TIM  NOVA👑",
-            "FLAG": "tim",
-            "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, TOPSPEED[crlf][crlf]",
-            "SNI": "api.onesignal.com",
-            "TlsIP": "api.onesignal.com",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-    },
-    {
-
+      
+          {
             "Name": "TIM NOVA 12 NOV..",
 
             "FLAG": "tim",
@@ -51,7 +41,16 @@
             "Info": "Tlsws"
 
         },
-    
+      {
+            "Name": "TIM  NOVA👑",
+            "FLAG": "tim",
+            "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, TOPSPEED[crlf][crlf]",
+            "SNI": "api.onesignal.com",
+            "TlsIP": "api.onesignal.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+          }, 
 {
 
       "Name": "🇧🇷️VIVO POWER ON FROINT 💜[02]",
