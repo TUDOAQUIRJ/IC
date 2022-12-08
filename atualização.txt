@@ -1,5 +1,5 @@
 {
-  "Version": "72",
+  "Version": "73",
   "ReleaseNotes": " AVISO 🇧🇷 TIM EM MANUTENÇÃO!! ESTAMOS TRABALHANDO PARA VOLTAR AO NORMAL.👇.",
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
   "Sms": "",
@@ -22,25 +22,7 @@
      },
     ],
       "Networks": [
-      {
-
-      "Name": "╰┈[☞>📱📡ᵗᶦᵐ ⁵ᵍ ⁿᵉᵗ ᵛᵉˡᵒᶻ💙",
-
-      "FLAG": "tim",
-
-      "Payload": "BASELINE-CONTROL wss://cardinalcommerce.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-
-      "SNI": "songbird.cardinalcommerce.com",
-
-      "TlsIP": "198.217.251.250",
-
-      "ProxyIP": "",
-
-      "ProxyPort": "443",
-
-      "Info": "Tlsws"
-
-   },
+      
       {
       "Name": "╰┈[☞>📱📡TIM💙",
       "FLAG": "tim",
