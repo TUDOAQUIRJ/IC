@@ -1,8 +1,8 @@
 {
 
-  "Version": "1",
+  "Version": "2",
 
-  "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ME DÊEM O RETORNO DE COMO FICOU AI NA SUA REGIÃO ✍️ .",
+  "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ME DÊEM O RETORNO DE COMO FICOU AI NA SUA REGIÃO! ✍️ .",
 
   "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
 
