@@ -85,6 +85,7 @@
       "Info": "Tlsws"
 
     }, 
+    
       {
 
       "Name": "TIM🔥&🔥VIVO 3.0",
@@ -104,6 +105,7 @@
       "Info": "Tlsws"
 
      },
+     
        {
 
       "Name": "💙😁TIM API😛",
@@ -123,6 +125,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "💛 OI ATUAL", 
@@ -142,6 +145,7 @@
       "Info": "Tlsws" 
 
      },
+     
      {
 
       "Name": "💛oi nova[SSL 2]",
@@ -161,6 +165,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Nome": "💛OI [SSL 1]",
@@ -180,6 +185,7 @@
       "Informações": "Tlsws"
 
     },
+    
     {
 
       "Name": "🇧🇷️VIvo🔥 🌐[01]",
@@ -199,6 +205,7 @@
       "Info": "Proxy"
 
     },
+    
     {
 
       "Name": "😎 VIVO FF ON 🌀[SSL Full]",
@@ -218,6 +225,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "😎 VIVO TINDER ⛱️[SSL Full]",
@@ -237,6 +245,7 @@
       "Info": "Tlsws"
 
      },
+     
      {
 
       "Name": "💙😎VIVO SUPORTE [SSL 3]",
@@ -256,6 +265,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "💚VIVO 😎🌐 [TURBO NET ]",
@@ -275,6 +285,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "🇧🇷VIVO☯️ [HELP☯️HELP",
@@ -294,6 +305,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "🌏VIVO YouTube ⛱️⚡ [ssl]",
@@ -313,6 +325,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "💚VIVO Easy [proxy1]",
@@ -332,6 +345,7 @@
       "Info": "Proxy"
 
     },
+    
     {
 
       "Name": "🚅💚VIVO Easy [SSL 2]",
@@ -351,6 +365,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "💚VIVO Easy [SSL 3]",
@@ -370,6 +385,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "🌐💚VIVO Easy [SSL 4]",
@@ -389,6 +405,7 @@
       "Info": "Tlsws"
 
     },
+    
     {
 
       "Name": "❤️CLARO❤️ [SSL 1]",
