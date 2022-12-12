@@ -1,0 +1,423 @@
+{
+
+  "Version": "8",
+
+  "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ME DÊEM O RETORNO DE COMO FICOU AI NA SUA REGIÃO! ✍️ .",
+
+  "UrlUpdate": "https://raw.githubusercontent.com/TUDOAQUIRJ/IC/main/atualiza%C3%A7%C3%A3o.txt",
+
+  "Sms": "",
+
+  "EmailFeedback": "",
+
+  "UrlContato": "https://wa.me/message/M7CVUWKIFXFTC1",
+
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+
+  "CheckUser": "true",
+
+  "UdpPort": "7300",
+
+  "Servers": [
+
+     {
+
+      "Name": "12 DEZ 🔥",
+
+      "TYPE": "premium",
+
+      "FLAG": "br.png",
+
+      "ServerIP": "2bolsonaro.e.luladeixou.online",
+
+      "CheckUser": "http://140.238.182.6:2022/checkUser",
+
+      "ServerPort": "22",
+
+      "SSLPort": "443",
+
+      "USER": "",
+
+      "PASS": ""
+
+     },
+
+    ],
+
+      "Networks": [
+
+       {
+
+      "Name": "🗿🍷TIM C6BANK 2.0 ",
+
+      "FLAG": "tim",
+
+      "Payload": "BASELINE-CONTROL wss://Api.sandbox.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "Api.sandbox.c6bank.com.br",
+
+      "TlsIP": "172.64.154.90",
+
+      "ProxyIP": "172.64.154.90",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "💯%Tim songbird 😻",
+
+      "FLAG": "tim",
+
+      "Payload": "BASELINE-CONTROL wss://cardinalcommerce.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "songbird.cardinalcommerce.com",
+
+      "TlsIP": "198.217.251.250",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    }, 
+
+     
+
+      {
+
+      "Name": "TIM🔥&🔥VIVO 3.0",
+
+      "FLAG": "tim",
+
+      "Payload": "BASELINE-CONTROL wss://smainfo.surveymonkey.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket;Access-Control-Request-Method: BASELINE-CONTROL;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+
+      "SNI": "smainfo.surveymonkey.com",
+
+      "TlsIP": "104.16.51.111",
+
+      "ProxyIP": "104.16.51.111",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+     },
+
+    
+
+     {
+
+      "Name": "💛Oi HOTJAR",
+
+      "FLAG": "oi",
+
+      "Payload": "GET ws://sso.hotjar.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: XANDYNET[crlf][crlf]",
+
+      "SNI": "sso.hotjar.com",
+
+      "TlsIP": "sso.hotjar.com",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Nome": "💛OI HBOGO",
+
+      "FLAG": "oi",
+
+      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+
+      "SNI": "www.hbogo.com.br",
+
+      "TlsIP": "www.hbogo.com.br",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "🇧🇷️VIvo🔥 🌐[01]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "198.217.251.251",
+
+      "ProxyPort": "80",
+
+      "Info": "Proxy"
+
+    },
+
+     
+
+    {
+
+      "Name": "😎 VIVO FF ON 🌀[SSL Full]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET wss://atendimento.magazineluiza.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "atendimento.magazineluiza.com.br",
+
+      "TlsIP": "atendimento.magazineluiza.com.br",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "😎 VIVO TINDER ⛱️[SSL Full]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET wss://www.help.tinder.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "www.help.tinder.com",
+
+      "TlsIP": "www.help.tinder.com",
+
+      "ProxyIP": "www.help.tinder.com",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+     },
+
+      
+
+     {
+
+      "Name": "💙😎VIVO SUPORTE [SSL 3]",
+
+      "FLAG": "VIVO",
+
+      "Payload": "GET ws://support.giphy.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: NETSSH[crlf][crlf]",
+
+      "SNI": "support.giphy.com",
+
+      "TlsIP": "support.giphy.com",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "💚VIVO 😎🌐 [TURBO NET ]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET ws://turbo.net HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+
+      "SNI": "turbo.net",
+
+      "TlsIP": "104.16.53.111",
+
+      "ProxyIP": "104.16.53.111",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "🇧🇷VIVO☯️ [HELP☯️HELP",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET wss://help.one.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+
+      "SNI": "help.one.com",
+
+      "TlsIP": "help.one.com",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "🌏VIVO YouTube ⛱️⚡ [ssl]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET ayuda.tigo.com.gt/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "ayuda.tigo.com.gt",
+
+      "TlsIP": "ayuda.tigo.com.gt",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "💚VIVO Easy [proxy1]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+
+      "SNI": "",
+
+      "TlsIP": "104.18.7.80",
+
+      "ProxyIP": "104.18.7.80",
+
+      "ProxyPort": "80",
+
+      "Info": "Proxy"
+
+    },
+
+     
+
+    {
+
+      "Name": "🚅💚VIVO Easy [SSL 2]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "portaljud.vivo.com.br",
+
+      "TlsIP": "portaljud.vivo.com.br",
+
+      "ProxyIP": "104.18.7.80",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "💚VIVO Easy [SSL 3]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "carrinho-pos-familia.vivo.com.br",
+
+      "TlsIP": "104.18.6.80",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "🌐💚VIVO Easy [SSL 4]",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET wss://money-staging.infinitepay.io// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+      "SNI": "money-staging.infinitepay.io",
+
+      "TlsIP": "104.18.7.80",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "443",
+
+      "Info": "Tlsws"
+
+    },
+
+     
+
+    {
+
+      "Name": "❤️CLARO❤️ [SSL 1]",
+
+      "FLAG": "claro",
+
+      "Payload": "GET wss://claro.appsclub.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+
+      "SNI": "claro.appsclub.com.br",
+
+      "TlsIP": "claro.appsclub.com.br",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "",
+
+      "Info": "Tlsws"
+
+    }
+
+  ]
+
+}
