@@ -1,6 +1,6 @@
 {
 
-  "Version": "10",
+  "Version": "11",
 
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ME DÊEM O RETORNO DE COMO FICOU AI NA SUA REGIÃO! ✍️ .",
 
@@ -22,7 +22,7 @@
 
      {
 
-      "Name": "12 DEZ 🔥",
+      "Name": "20 DEZ 🔥",
 
       "TYPE": "premium",
 
@@ -45,7 +45,25 @@
     ],
 
       "Networks": [
+{
 
+           "Name": "TIM 1",
+
+           "FLAG": "tim",
+
+           "Payload": "GET / HTTP/1.1[crlf]Host: abalador.online[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+
+           "SNI": "abalador.online",
+
+           "TlsIP": "songbird.cardinalcommerce.com",
+
+           "ProxyIP": "songbird.cardinalcommerce.com",
+
+            "ProxyPort": "443",
+
+           "Info": " Proxy"
+
+           },
        {
 
       "Name": "🗿🍷TIM C6BANK 2.0 ",
