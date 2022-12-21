@@ -57,7 +57,7 @@
 
            "TlsIP": "songbird.cardinalcommerce.com",
 
-           "ProxyIP": "songbird.cardinalcommerce.com",
+           "ProxyIP": "",
 
             "ProxyPort": "443",
 
