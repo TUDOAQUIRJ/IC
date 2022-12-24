@@ -1,6 +1,6 @@
 {
 
-  "Version": "11",
+  "Version": "12",
 
   "ReleaseNotes": " ATENDIMENTO VIA WHATSAPP 21-99761-4089 - ME DÊEM O RETORNO DE COMO FICOU AI NA SUA REGIÃO! ✍️ .",
 
@@ -45,6 +45,25 @@
     ],
 
       "Networks": [
+      {
+
+           "Name": "TIM 24 DEZEMBRO",
+
+           "FLAG": "tim",
+
+           "Payload": "GET-TOPSPEED / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]TOPSPEED[crlf][crlf]",
+
+           "SNI": "topspeed.vivofront.abaixo.xyz",
+
+           "TlsIP": "18.161.200.60",
+
+           "ProxyIP": "",
+
+           "ProxyPort": "443",
+
+           "Info": " Proxy"
+
+   },
 {
 
            "Name": "TIM 1",
