@@ -1,0 +1,66 @@
+{
+    "Version": "1",
+    "ReleaseNotes": "👋 ATUALIZAMOS OS SERVIÇOS DAS OPERADORAS, SOLICITAMOS A TODOS QUE CLIQUE NO BOTÃO {ATUALIZAR} LOGO BAIXO!",
+  "UrlUpdate": "",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/ter",
+  "CheckUser": "true",
+  "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400;7600;7400;7100;7700;7800;7900",
+  "Servers": [
+   {
+      "Name": "BRASIL 2023  🇧🇷 🤖🍷🥂",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "2bolsonaro.e.luladeixou.online",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+    "Name": "TIM 01",
+    "FLAG": "tim",
+    "Payload": "GET / HTTP/1.1\nHost: gitlab.com\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "apptest.c6bank.app",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "TIM 02",
+    "FLAG": "tim",
+    "Payload": "GET / HTTP/1.1\nHost: helpypro.stoodi.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "helpypro.stoodi.com.br",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "TIM 03",
+    "FLAG": "tim",
+    "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=api.of.c6bank.com.br;support.deezer.com][crlf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /Chessmind/ HTTP/1.1[lf]Host: [app_host][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "support.deezer.com",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO 01",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: conexaogoldnet.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    }
+  ]
+}
